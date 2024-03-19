@@ -21,11 +21,13 @@ Nama : Wulan Maulidiah <br>
 NIM : 2341728038 <br>
 Kelas : TI 3A
 
-1. Halaman Home
-    ![Screenshoot](assets-report/W05-1a.png)
-    Halaman About
+1. Halaman Home <br>
+    ![Screenshoot](assets-report/W05-1a.png) 
+
+    Halaman About <br>
     ![Screenshoot](assets-report/W05-1b.png)
-    Halaman Profile
+
+    Halaman Profile <br>
     ![Screenshoot](assets-report/W05-1.png)
     
 2. Halaman Blogs
