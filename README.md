@@ -43,5 +43,7 @@ Kelas : TI 3A
 
     Membuat halaman /products/[productId]/reviews/[reviewId]
     ![Screenshoot](assets-report/W05-3c.png) <br>
-    
+
+4. Navigasi dengan link component
+    ![Screenshoot](assets-report/W05-4.png) <br>
 ## Deploy on Vercel
