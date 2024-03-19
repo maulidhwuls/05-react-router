@@ -30,22 +30,25 @@ Kelas : TI 3A
     Halaman Profile <br>
     ![Screenshoot](assets-report/W05-1.png)
     
-2. Halaman Blogs
-    ![Screenshoot](assets-report/W05-2.png) <br>
-    Halaman Blogs/First
-    ![Screenshoot](assets-report/W05-2a.png) <br>
-    Halaman Blogs/Second
-    ![Screenshoot](assets-report/W05-2b.png) <br>
+2. Halaman Blogs <br>
+    ![Screenshoot](assets-report/W05-2.png)
+
+    Halaman Blogs/First<br>
+    ![Screenshoot](assets-report/W05-2a.png)
+
+    Halaman Blogs/Second <br>
+    ![Screenshoot](assets-report/W05-2b.png)
+
     Menurut saya, terdapat risiko yang dapat mungkin terjadi dengan konflik nama file jika setiap halaman memiliki nama file yang sama 'page.tsx' di dalam folder yang berbeda. Karena hal tersebut dapat menyebabkan kebingungan atau masalah dalam manajemen kode.
 
-3. Halaman Blogs dengan Dynamic Routes
+3. Halaman Blogs dengan Dynamic Routes <br>
     ![Screenshoot](assets-report/W05-3.png) <br>
     ![Screenshoot](assets-report/W05-3a.png) <br>
     ![Screenshoot](assets-report/W05-3b.png) <br>
 
-    Membuat halaman /products/[productId]/reviews/[reviewId]
-    ![Screenshoot](assets-report/W05-3c.png) <br>
+    Membuat halaman /products/[productId]/reviews/[reviewId] <br>
+    ![Screenshoot](assets-report/W05-3c.png)
 
-4. Navigasi dengan link component
-    ![Screenshoot](assets-report/W05-4.png) <br>
+4. Navigasi dengan link component <br>
+    ![Screenshoot](assets-report/W05-4.png)
 ## Deploy on Vercel
