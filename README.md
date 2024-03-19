@@ -51,4 +51,3 @@ Kelas : TI 3A
 
 4. Navigasi dengan link component <br>
     ![Screenshoot](assets-report/W05-4.png)
-## Deploy on Vercel
