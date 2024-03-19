@@ -36,5 +36,12 @@ Kelas : TI 3A
     ![Screenshoot](assets-report/W05-2b.png) <br>
     Menurut saya, terdapat risiko yang dapat mungkin terjadi dengan konflik nama file jika setiap halaman memiliki nama file yang sama 'page.tsx' di dalam folder yang berbeda. Karena hal tersebut dapat menyebabkan kebingungan atau masalah dalam manajemen kode.
 
-3. 
+3. Halaman Blogs dengan Dynamic Routes
+    ![Screenshoot](assets-report/W05-3.png) <br>
+    ![Screenshoot](assets-report/W05-3a.png) <br>
+    ![Screenshoot](assets-report/W05-3b.png) <br>
+
+    Membuat halaman /products/[productId]/reviews/[reviewId]
+    ![Screenshoot](assets-report/W05-3c.png) <br>
+    
 ## Deploy on Vercel
