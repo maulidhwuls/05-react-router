@@ -28,5 +28,13 @@ Kelas : TI 3A
     Halaman Profile
     ![Screenshoot](assets-report/W05-1.png)
     
-2. 
+2. Halaman Blogs
+    ![Screenshoot](assets-report/W05-2.png) <br>
+    Halaman Blogs/First
+    ![Screenshoot](assets-report/W05-2a.png) <br>
+    Halaman Blogs/Second
+    ![Screenshoot](assets-report/W05-2b.png) <br>
+    Menurut saya, terdapat risiko yang dapat mungkin terjadi dengan konflik nama file jika setiap halaman memiliki nama file yang sama 'page.tsx' di dalam folder yang berbeda. Karena hal tersebut dapat menyebabkan kebingungan atau masalah dalam manajemen kode.
+
+3. 
 ## Deploy on Vercel
